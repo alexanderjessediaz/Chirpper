@@ -10,6 +10,8 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
+## change name to chirp from chrip in table chirps
+
 ActiveRecord::Schema.define(version: 2020_12_04_204553) do
 
   create_table "chirps", force: :cascade do |t|
